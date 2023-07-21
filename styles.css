@@ -1,12 +1,20 @@
 .head{
 	display: flex;
+	height: 100vh;
+	align-items: center;
+	justify-content: center;
 }
 img{
-	width: 300px;
+	height: 100%;
+	width: 100%;
+}
+.content{
+	text-align: center;
 }
 a{
 	color: white;
 	background-color: red;
-	margin: 10px;
 	padding: 10px;
+	text-decoration: none;
+	font-weight: bold;
 }
