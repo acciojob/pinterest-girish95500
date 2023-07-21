@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+.head{
+	display: flex;
+}
+img{
+	width: 300px;
+}
+a{
+	color: white;
+	background-color: red;
+	margin: 10px;
+	padding: 10px;
+}
